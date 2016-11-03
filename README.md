@@ -1,6 +1,8 @@
 # harlemshake
 This is the Harlem Shake JS code to test for CSP
 
+The below has been taken from: https://www.troyhunt.com/introducing-you-to-browser-security/
+
 Click on Raw above, then copy from below this line to your browser Dev Tools:
 
 //Source: http://pastebin.com/aJna4paJ
