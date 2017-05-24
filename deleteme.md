@@ -4,3 +4,4 @@ For more details on the Content Security Policy, you can check out: https://www.
 
 Click on Raw above, then copy from below this line to your browser Dev Tools:
 
+https://pastebin.com/qc4pbLqC
